@@ -10,9 +10,7 @@
 
 <a href="https://t.me/applefavour" target="_blank">
   <img src="https://img.shields.io/badge/🍎%20Apple%20Community-2.1k%20members-FF6B35?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Our Apple Community" />
-</a>
-<br><br>
-<a href="https://t.me/iparsiv" target="_blank">
+</a>&nbsp<a href="https://t.me/iparsiv" target="_blank">
   <img src="https://img.shields.io/badge/📦%20iPA%20Library-850%20files-4A90E2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="iPA Library" />
 </a>
 
