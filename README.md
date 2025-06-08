@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Can!
+👋 Hello, I'm Can!
 
 <img src="https://raw.githubusercontent.com/canpng/canpng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Dark" />
-
----
 
 ### 📱 Join Us!
 
@@ -19,8 +17,6 @@
   </a>
 
 </div>
-
----
 
 ### 👀 Profile Views
 
