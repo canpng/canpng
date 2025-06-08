@@ -35,8 +35,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&labelColor=1a1a1a" alt="Made with Love" />
-
 </div>
 
 </div>
