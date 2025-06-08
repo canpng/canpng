@@ -1,11 +1,5 @@
-# 👋 Hello, I'm Can!
-
 <div align="center">
-  
-### ⚙️ I'm a mechanical engineer.
-<br>
-
-## 📊 My GitHub Activity
+# 👋 Hello, I'm Can!
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/canpng/canpng/output/github-contribution-grid-snake-dark.svg)
 
@@ -34,7 +28,5 @@
 <img src="https://profile-counter.glitch.me/canpng/count.svg" alt="Visitor Count" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 
 <br><br>
-
-</div>
 
 </div>
