@@ -1,4 +1,3 @@
-<div align="center">
 # 👋 Hello, I'm Can!
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/canpng/canpng/output/github-contribution-grid-snake-dark.svg)
@@ -7,17 +6,17 @@
 
 ### 📱 Join Us!
 
-<a href="https://t.me/applefavour" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-Our%20Apple%20Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Our Apple Community" />
-</a>
+<div align="center">
 
+<a href="https://t.me/applefavour" target="_blank">
+  <img src="https://img.shields.io/badge/🍎%20Apple%20Community-2.1k%20members-FF6B35?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Our Apple Community" />
+</a>
+<br><br>
 <a href="https://t.me/iparsiv" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-iPA%20Library-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="iPA Library" />
+  <img src="https://img.shields.io/badge/📦%20iPA%20Library-850%20files-4A90E2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="iPA Library" />
 </a>
 
 </div>
-
-<br>
 
 ---
 
