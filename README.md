@@ -2,6 +2,11 @@
 
 👋 Hello, I'm Can!
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canpng&layout=compact&theme=dark&langs_count=10" alt="canpng's Top Languages" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=canpng&show_icons=true&theme=dark" alt="canpng's GitHub Stats" height="195px"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/canpng/canpng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Dark" />
 
 ### 📱 Join Us!
