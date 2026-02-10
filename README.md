@@ -1,30 +1,56 @@
 <div align="center">
 
-👋 Hello, I'm Can!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canpng&layout=compact&theme=dark&langs_count=10" alt="canpng's Top Languages" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=canpng&show_icons=true&theme=dark" alt="canpng's GitHub Stats" height="195px"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/canpng/canpng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Dark" />
-
-### 📱 Join Us!
-
-<div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-
-  <a href="https://t.me/applefavour" target="_blank">
-    <img src="https://img.shields.io/badge/🍎%20Apple%20Community-2.4k%20members-FF6B35?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
-  </a>
-&nbsp;&nbsp;
-  <a href="https://t.me/iparsiv" target="_blank">
-    <img src="https://img.shields.io/badge/📦%20iPA%20Library-11.3k%20members-4A90E2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=33FF57&width=435&lines=👋+Hello,+I'm+Can+Yilmaz!;Mechanical+Engineering+Student;Python+%26+iOS+Enthusiast;Always+learning+new+tech..." alt="Typing SVG" />
   </a>
 
-</div>
+  <br/>
 
-### 👀 Profile Views
+  <p>
+     Mechanical Engineer
+  </p>
 
-<img src="https://profile-counter.glitch.me/canpng/count.svg" alt="Visitor Count" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <hr />
+
+  <h3>🛠 Tech Stack & Tools</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="40" alt="Swift"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="Bash"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/SolidWorks-DS-red?style=flat&logo=dassault-systemes&logoColor=white" height="40" alt="SolidWorks"/>
+  </div>
+
+  <br/>
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canpng&theme=radical" alt="Can's Profile Details" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canpng&theme=radical" alt="Can's Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <hr />
+
+  <h3>🚀 Communities</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+    <a href="https://t.me/applefavour" target="_blank">
+      <img src="https://img.shields.io/badge/🍎%20Apple%20Community-Join%20Us-FF6B35?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+    </a>
+    <a href="https://t.me/iparsiv" target="_blank">
+      <img src="https://img.shields.io/badge/📦%20iPA%20Library-Archive-4A90E2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+    </a>
+  </div>
+
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=canpng&style=flat-square&color=blueviolet" alt="Visitor Count" />
 
 </div>
