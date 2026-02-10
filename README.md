@@ -16,14 +16,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matlab/matlab-original.svg" height="40" width="40" alt="Matlab"/>
   </div>
 
-  <br/>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canpng&theme=radical" alt="Can's Profile Details" />
-    &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canpng&theme=radical" alt="Can's Top Languages" />
-  </p>
-
   <hr />
 
   <h3>🚀 Communities</h3>
