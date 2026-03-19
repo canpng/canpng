@@ -14,6 +14,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/arduino/arduino-original.svg" height="40" width="40" alt="Arduino"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ansys/ansys-original.svg" height="40" width="40" alt="Ansys"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matlab/matlab-original.svg" height="40" width="40" alt="Matlab"/>
+    <img src="https://www.ntop.com/favicon.svg" height="40" width="40" alt="nTop"/>
   </div>
 
   <hr />
